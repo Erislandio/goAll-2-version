@@ -1,0 +1,48 @@
+{
+    "project_info": {
+      "project_number": "149756242268",
+      "firebase_url": "https://goall-8817f.firebaseio.com",
+      "project_id": "goall-8817f",
+      "storage_bucket": "goall-8817f.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:149756242268:android:d2e17acd82e4d8ea74f999",
+          "android_client_info": {
+            "package_name": "com.erislandio.goall"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "149756242268-7h5s12merjh8sfhoi4ses483orbta9c1.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.erislandio.goall",
+              "certificate_hash": "2df280b15cba57ec52b56e59f75560e177227a89"
+            }
+          },
+          {
+            "client_id": "149756242268-8qjhj2lllfss9ls15vc9cj78ku2b804d.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDmpL8FDVdp7HHzI7COILETWo-RZwYhhSw"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "149756242268-8qjhj2lllfss9ls15vc9cj78ku2b804d.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
